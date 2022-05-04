@@ -26,12 +26,16 @@ include 'dataArray.php';
 
     <?php
     foreach ($faqArray as $faq) {
+
         //creo un div per ogni faq
         echo('<div class="question">');
+
             //creo un h2 per ogni domanda
             echo('<h2>'. $faq['question']. '</h2>');
+
             //creo un p per ogni risposta
             echo($faq['answer']);
+
         echo('</div>');
     }
      
