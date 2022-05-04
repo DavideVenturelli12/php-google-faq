@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: sans-serif;
+    padding: 20px 0;
+}
+
+.question {
+    padding: 60px 25% 0;
+}
+
+p {
+    margin-top: 40px;
+}
