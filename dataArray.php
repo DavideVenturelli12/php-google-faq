@@ -26,7 +26,7 @@ $faqArray = [
         "question" => "Perché il mio account è associato a un paese?",
         "answer" => "<p>Il tuo account è associato a un paese (o territorio) nei Termini di servizio per poter stabilire due cose:</p>
         
-        <ol>
+        <ol class = 'list'>
            <li>
               La società consociata Google che offre i servizi, tratta le tue informazioni ed è responsabile del rispetto delle leggi sulla privacy vigenti. Generalmente Google offre i propri servizi per i consumatori tramite una delle due società seguenti:
               <ol>
